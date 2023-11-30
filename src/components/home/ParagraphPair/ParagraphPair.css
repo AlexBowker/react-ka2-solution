@@ -1,0 +1,10 @@
+.paragraph-box {
+  display: flex;
+  width: 100%;
+}
+
+.paragraph {
+  text-align: center;
+  width: 50%;
+  margin: 20px;
+}
